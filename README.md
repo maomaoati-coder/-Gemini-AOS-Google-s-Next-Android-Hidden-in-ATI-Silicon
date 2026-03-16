@@ -1,3 +1,5 @@
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
 # -Gemini-AOS-Google-s-Next-Android-Hidden-in-ATI-Silicon
 Another once-in-a-generation gateway after Android
 
